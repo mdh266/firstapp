@@ -11,7 +11,11 @@ You can see below,
 
 ## Using The App
 ----------------
-You can download [Ollama](https://ollama.com/) and run Llama 2 with the command,
+You can download [Ollama](https://ollama.com/) and then install the Python dependencies:
+
+    pip install -r requirements.txt
+
+You can then creat the Llama2 server with the command,
 
     ollama run llama2
 
