@@ -16,7 +16,7 @@ def query_ollama(question: str) -> Iterator[str]:
 
 
 def query_openai(question: str) -> Iterator[str]:
-    api_key = os.environ["OPENAI_API_KEY"]
+    
 
 
 
