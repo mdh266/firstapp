@@ -3,7 +3,7 @@
 
 ## About
 ---------
-This is a pretty simple app, it is a basic ChatBot using (streamlit)[https://streamlit.io/] as a front end and that queries [Llama2](https://www.llama.com/llama2/) using an [Ollama](https://ollama.com/) server. This allows me to run an LLM locally on my own MacBook Air!
+This is a pretty simple app, it is a basic ChatBot using [Streamlit](https://streamlit.io/) as a front end and that queries [Llama2](https://www.llama.com/llama2/) using an [Ollama](https://ollama.com/) server. This allows me to run an LLM locally on my own MacBook Air!
 
 You can see below,
 
